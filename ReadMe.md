@@ -6,10 +6,6 @@ Advisor : Prof. Abel Gomes
 Class : Project 22/23
 :::
 
-## Table of Contents
-
-[TOC]
-
 ## Story
 TBD
 
