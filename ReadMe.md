@@ -131,6 +131,7 @@ Equipment
 | Steel Set  |      X      |              |             |                    |
 | Elven Set  |             |              |      X      |                    |
 | Glass Set  |             |      X       |             |                    |
+|            |             |              |             |                    |
 
 * *Min. Requirement will be minimum level and minimum attribute:
     * For Heavy Armor the attribute will be Strength;
